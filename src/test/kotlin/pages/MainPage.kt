@@ -54,6 +54,10 @@ class MainPage(val driver: AppiumDriver<*>) : BasePage(driver) {
         Assert.assertEquals(expected, balance?.text)
     }
 
+    fun openTransactionsHistory() {
+        balance?.click()
+    }
+
     fun clickIncomeButton() {
         incomeButton?.click()
     }
