@@ -22,6 +22,17 @@ Device: Pixed 2
 App Version: 1.16.0.2192
 App source: PlayMarket store
 
+## Time Breakdown
+***Duration:***\
+60 minutes
+
+***Test Design:***\
+20 minutes
+
+***Test Execution:***\
+40 minutes
+
+
 ## Bugs
 No bugs found 
 
@@ -45,6 +56,19 @@ OS: Android 12
 Device: Pixed 2
 App Version: 1.16.0.2192
 App source: PlayMarket store
+
+## Time Breakdown
+***Duration:***\
+45 minutes
+
+***Test Design:***\
+10 minutes
+
+***Test Execution:***\
+20 minutes
+
+***Bugs Investigation and Reporting:***\
+15 minutes
 
 ## Bugs
 On amount screen after math operation, if current transaction amount has decimal dot, click on digit leads to wrong amount
